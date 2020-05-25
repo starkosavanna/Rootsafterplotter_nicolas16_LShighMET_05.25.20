@@ -1,0 +1,11 @@
+\begin{tabular}{ | l | c | c | c | c | c | c | }
+\hline
+Process & Data & DYJetsToLL & SingleTop & VV & W+Jets & t#bar{t}\\ \hline
+NRecoVertex & 408426402.0 & 226770601.8 $\pm$ 92.0 & 9953795.7 $\pm$ 116.6 & 5033591.7 $\pm$ 50.8 & 1671843537.3 $\pm$ 41756.5 & 25820221.2 $\pm$ 268.7 \\ \hline
+NRecoTriggers1 & 224927428.0 & 8458881.1 $\pm$ 2267.3 & 79353.6 $\pm$ 81.8 & 35108.6 $\pm$ 80.7 & 2243849.2 $\pm$ 2544.6 & 594144.7 $\pm$ 180.0 \\ \hline
+NRecoTau1 & 3233.0 & 1197.2 $\pm$ 21.0 & 16.5 $\pm$ 1.2 & 30.0 $\pm$ 2.4 & 0.6 $\pm$ 0.4 & 109.5 $\pm$ 1.5 \\ \hline
+NRecoTau2 & 3233.0 & 1197.2 $\pm$ 21.0 & 16.5 $\pm$ 1.2 & 30.0 $\pm$ 2.4 & 0.6 $\pm$ 0.4 & 109.5 $\pm$ 1.5 \\ \hline
+NDiTauCombinations & 220.0 & 2.9 $\pm$ 1.4 & 0.0 $\pm$ 0.0 & 0.2 $\pm$ 0.1 & 0.0 $\pm$ 0.0 & 0.1 $\pm$ 0.1 \\ \hline
+METCut & 130.0 & 2.9 $\pm$ 1.4 & 0.0 $\pm$ 0.0 & 0.2 $\pm$ 0.1 & 0.0 $\pm$ 0.0 & 0.1 $\pm$ 0.1 \\ \hline
+NRecoBJet & 130.0 & 2.9 $\pm$ 1.4 & 0.0 $\pm$ 0.0 & 0.2 $\pm$ 0.1 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 \\ \hline
+\end{tabular}
